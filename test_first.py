@@ -1,2 +1,2 @@
 def test_first():
-    assert 2 > 1
+    assert 3 > 1
